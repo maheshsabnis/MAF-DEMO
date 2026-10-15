@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GenAiDemo.csproj" />
+  <Project Path="GenAiDemoMaf/GenAiDemoMaf.csproj" />
+</Solution>
